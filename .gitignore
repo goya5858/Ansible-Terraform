@@ -2,3 +2,8 @@
 
 /terraform/ec2_key.pub
 /terraform/ec2_key
+
+/terraform/.terraform
+/terraform/.terraform.lock.hcl
+/terraform/terraform.tfstate
+/terraform/terraform.tfstate.backup

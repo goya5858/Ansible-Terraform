@@ -1,1 +1,4 @@
 /.DS_Store
+
+/terraform/ec2_key.pub
+/terraform/ec2_key
